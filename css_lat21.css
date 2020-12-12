@@ -1,0 +1,62 @@
+body{
+	background-color: black;
+
+}
+
+#container{
+	background-color: grey;
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+#header{
+	 background-color: rgb(124,233,88);
+	 text-align: center;
+	 color: blue;
+	 padding: 10px;
+}
+#content{
+	padding:10px;
+	background-color: white;
+}
+
+#nav{
+	width: 150px;
+	margin-top: auto;
+	margin-bottom: auto;
+	float: left;
+}
+
+
+#main{
+	width: 700px;
+	float: right;
+}
+
+#artikel{
+	border-style: solid;
+	background-color: rgb(245,103,33)
+	border-width: 2px;
+	border-color: green;
+	padding: 10px;
+}
+
+.judul_artikel{
+	background-color: black;
+	text-indent: 10px;
+	color: white;
+}
+
+#footer{
+	clear: both;
+	text-align: center;
+	background-color: #57903F;
+	font-weight: bold;
+	color: white;
+	padding-top: 1px;
+	height: 50px;
+	
+
+}
